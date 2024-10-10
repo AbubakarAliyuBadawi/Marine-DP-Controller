@@ -33,3 +33,10 @@ The project utilizes the Marine Systems Simulator (MSS) Toolbox for MATLAB/Simul
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Marine-DP-Controller.git
+
+### Contributors
+
+1. **Abubakar Aliyu Badawi**
+2. **Ishfaq Ahmad Bhat**
+3. **Celil Yilmaz**
+4. **Tayyab Tahir**
