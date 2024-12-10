@@ -69,8 +69,3 @@ The system enables precise vessel position and heading control under various env
 - Simulink
 - Marine Systems Simulator (MSS) Toolbox
 - Optimization Toolbox
-
-### Setup Instructions
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Marine-DP-System.git
