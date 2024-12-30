@@ -1,7 +1,5 @@
 # Marine Dynamic Positioning System
-A comprehensive implementation of a Dynamic Positioning (DP) system for marine vessels, developed as part of the TMR4240 Marine Control Systems course at NTNU. This project demonstrates advanced control system design and implementation using MATLAB/Simulink and the Marine Systems Simulator (MSS) Toolbox.
-
-This repository contains the implementation and simulation of a **Dynamic Positioning (DP)** system developed as part of the TMR4240 Marine Control Systems course. The project leverages MATLAB/Simulink and the **Marine Systems Simulator (MSS)** toolbox to model, design, and test advanced control strategies for marine vessels.
+A comprehensive implementation and simulation of a Dynamic Positioning (DP) system for marine vessels, developed as part of the TMR4240 Marine Control Systems course at NTNU. The project leverages MATLAB/Simulink and the Marine Systems Simulator (MSS) toolbox to model, design, and test advanced control strategies, showcasing advanced control system design and implementation.
 
 ## Overview
 
